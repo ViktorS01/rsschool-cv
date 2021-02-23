@@ -19,4 +19,5 @@ function isEmpty (obj) {
 While studying at the university, I completed many projects, for example, playing on a game engine Unity using C#.  
 Several sites with their own layouts.  
 Also, a lot of program code is written in the language Java.  
-At the moment I am studying at the University of SSTU. 
+At the moment I am studying at the University of SSTU.  
+My English level is **B1**  
